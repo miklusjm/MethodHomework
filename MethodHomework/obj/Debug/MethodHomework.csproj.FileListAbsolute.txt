@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodHomework\MethodHomework\bin\Debug\MethodHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodHomework\MethodHomework\obj\Debug\MethodHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodHomework\MethodHomework\bin\Debug\MethodHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodHomework\MethodHomework\bin\Debug\MethodHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodHomework\MethodHomework\obj\Debug\MethodHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\MethodHomework\MethodHomework\obj\Debug\MethodHomework.pdb
